@@ -1,0 +1,10 @@
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.csprojAssemblyReference.cache
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.GUI.resources
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.Properties.Resources.resources
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.csproj.GenerateResource.cache
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.csproj.CoreCompileInputs.cache
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\bin\Debug\ImageGUI.exe.config
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\bin\Debug\ImageGUI.exe
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\bin\Debug\ImageGUI.pdb
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.exe
+c:\users\cank1_17\source\repos\FirstMilestone\ImageGUI\obj\Debug\ImageGUI.pdb
